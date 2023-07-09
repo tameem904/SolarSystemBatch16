@@ -3,4 +3,8 @@ public class SolarSystemBasic {
     String Moon;
     String Sun;
     String Star;
+
+    public static void main(String[] args) {
+        System.out.println("********************************");
+    }
 }
